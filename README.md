@@ -35,10 +35,12 @@ This is a simple personal finance tracker built with Python. It allows you to ad
    cd personal_finance_tracker
    
 2. **Create a virtual environment**
+   ```bash
    python3 -m venv venv
    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
-3. **Install dependencies**
+4. **Install dependencies**
+   ```bash
    pip install matplotlib
 
 
