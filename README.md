@@ -43,4 +43,5 @@ This is a simple personal finance tracker built with Python. It allows you to ad
    ```bash
    pip install matplotlib
 
+## Demo
 ![demo](demo.png)
